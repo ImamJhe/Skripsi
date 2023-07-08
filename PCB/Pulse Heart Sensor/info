@@ -1,0 +1,161 @@
+{
+  "uuid": "b2c3d799416b6a57608eb792880855bf",
+  "path": "Offline/Pulse%20heart",
+  "name": "Pulse heart",
+  "content": "",
+  "created_at": "2022-05-25 11:19:37",
+  "updated_at": "2022-05-25 11:19:37",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3f67082f1de0875f8907f6caf56aca31",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f90c85c2f5d8489f887c8732156e11c5": 1,
+        "514baba4fee344e09d9ab8d000d382b1": 1,
+        "7e493b3524944bcf8d1eea064043ff75": 1,
+        "0b02677ee089446ebe2bed16ec247d1c": 1,
+        "e772549527ad4bd49bcef4c6eef10b34": 2,
+        "8fde475b038b44ab8efe99b91691e0c2": 1,
+        "16b14131aa364529a7b5a5669545ece2": 1,
+        "091723951aca426bbe7dd7e22d01134b": 1,
+        "cef5b1d3fff44cfca898c4701e2c1e06": 1,
+        "59afcadd267e4ddc82d6bbce040899f6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          ".",
+          1,
+          "RESAD1750W63L750D250",
+          "4K7",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "6a681f09a6db4f01944dd47e67130178",
+            "uuid": "8fde475b038b44ab8efe99b91691e0c2"
+          }
+        ],
+        [
+          "ESP32DEVKITV1",
+          1,
+          "ESP32-DEVKITV1",
+          "BOARD1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "16325ef1449f4a808151de780ac09b31",
+            "uuid": "f90c85c2f5d8489f887c8732156e11c5"
+          }
+        ],
+        [
+          "Dc-Dc 0,9_5V",
+          1,
+          "DC-DC 0.9_5V",
+          "IC1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "b08829010c864de28b56ace855472b32",
+            "uuid": "514baba4fee344e09d9ab8d000d382b1"
+          }
+        ],
+        [
+          "header1*2P",
+          1,
+          "2PIN-HEADER",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "f9f7f0feac6a466cac48bc51b9f2cec3",
+            "uuid": "091723951aca426bbe7dd7e22d01134b"
+          }
+        ],
+        [
+          "Connector 2pin 5.08mm",
+          2,
+          "CONNECTOR  2PIN 5.08MM",
+          "SAKLAR1,SAKLAR2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "2d6377a1ce614cbda251a53d1f145d15",
+            "uuid": "e772549527ad4bd49bcef4c6eef10b34"
+          }
+        ],
+        [
+          "PulseSensor",
+          1,
+          "PULSESENSOR",
+          "SB",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "59afcadd267e4ddc82d6bbce040899f6"
+          }
+        ],
+        [
+          "Heartrate Sensor AD8232",
+          1,
+          "HEARTRATE SENSOR AD8232",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "60e9745b026f412881f53c6df4727f55",
+            "uuid": "cef5b1d3fff44cfca898c4701e2c1e06"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1b06b492d9514e9984ae5e21e5e6506e",
+            "uuid": "0b02677ee089446ebe2bed16ec247d1c"
+          }
+        ],
+        [
+          "3pin female header",
+          1,
+          "3PIN FEMALE HEADER",
+          "U5",
+          {
+            "BOM_Manufacturer Part": "3pin female header",
+            "puuid": "d6369f349690413384aa729b59aad094",
+            "uuid": "7e493b3524944bcf8d1eea064043ff75"
+          }
+        ]
+      ],
+      "updateTime": 1653448777,
+      "createTime": 1653448777,
+      "histories": [],
+      "created_at": "2022-05-25 11:19:37",
+      "updated_at": "2022-05-25 11:19:37"
+    }
+  ],
+  "sort": [],
+  "title": "Pulse heart",
+  "foldername": "Pulse heart",
+  "schfilename": "Pulse heart.json",
+  "schfilemtime": 1653448777298
+}

@@ -1,0 +1,176 @@
+{
+  "uuid": "5bc6103459a87f5b3d5571136a121bd6",
+  "path": "Offline/AD8232_",
+  "name": "AD8232_",
+  "content": "",
+  "created_at": "2022-04-23 13:49:57",
+  "updated_at": "2022-04-23 14:22:27",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b8b504374b87660b3779203d34583ed2",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f90c85c2f5d8489f887c8732156e11c5": 1,
+        "514baba4fee344e09d9ab8d000d382b1": 1,
+        "7e493b3524944bcf8d1eea064043ff75": 1,
+        "0b02677ee089446ebe2bed16ec247d1c": 1,
+        "e772549527ad4bd49bcef4c6eef10b34": 2,
+        "8fde475b038b44ab8efe99b91691e0c2": 1,
+        "cef5b1d3fff44cfca898c4701e2c1e06": 1,
+        "16b14131aa364529a7b5a5669545ece2": 1,
+        "091723951aca426bbe7dd7e22d01134b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          ".",
+          1,
+          "RESAD1750W63L750D250",
+          "4K7",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "6a681f09a6db4f01944dd47e67130178",
+            "uuid": "8fde475b038b44ab8efe99b91691e0c2"
+          }
+        ],
+        [
+          "ESP32DEVKITV1",
+          1,
+          "ESP32-DEVKITV1",
+          "BOARD1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "16325ef1449f4a808151de780ac09b31",
+            "uuid": "f90c85c2f5d8489f887c8732156e11c5"
+          }
+        ],
+        [
+          "Dc-Dc 0,9_5V",
+          1,
+          "DC-DC 0.9_5V",
+          "IC1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "b08829010c864de28b56ace855472b32",
+            "uuid": "514baba4fee344e09d9ab8d000d382b1"
+          }
+        ],
+        [
+          "header1*2P",
+          1,
+          "2PIN-HEADER",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "f9f7f0feac6a466cac48bc51b9f2cec3",
+            "uuid": "091723951aca426bbe7dd7e22d01134b"
+          }
+        ],
+        [
+          "Connector 2pin 5.08mm",
+          2,
+          "CONNECTOR  2PIN 5.08MM",
+          "SAKLAR1,SAKLAR2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "2d6377a1ce614cbda251a53d1f145d15",
+            "uuid": "e772549527ad4bd49bcef4c6eef10b34"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "TP4056",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "1b06b492d9514e9984ae5e21e5e6506e",
+            "uuid": "0b02677ee089446ebe2bed16ec247d1c"
+          }
+        ],
+        [
+          "Heartrate Sensor AD8232",
+          1,
+          "HEARTRATE SENSOR AD8232",
+          "U3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "60e9745b026f412881f53c6df4727f55",
+            "uuid": "cef5b1d3fff44cfca898c4701e2c1e06"
+          }
+        ],
+        [
+          "3pin female header",
+          1,
+          "3PIN FEMALE HEADER",
+          "U5",
+          {
+            "BOM_Manufacturer Part": "3pin female header",
+            "puuid": "d6369f349690413384aa729b59aad094",
+            "uuid": "7e493b3524944bcf8d1eea064043ff75"
+          }
+        ]
+      ],
+      "updateTime": 1650692997,
+      "createTime": 1650692997,
+      "histories": [],
+      "created_at": "2022-04-23 13:49:57",
+      "updated_at": "2022-04-23 13:49:57"
+    },
+    {
+      "uuid": "53b4fc503d8a8a97f7262ec205823ae4",
+      "puuid": "5bc6103459a87f5b3d5571136a121bd6",
+      "title": "PCB_AD8232_",
+      "filename": "PCB_AD8232_.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "6a681f09a6db4f01944dd47e67130178": 1,
+        "16325ef1449f4a808151de780ac09b31": 1,
+        "b08829010c864de28b56ace855472b32": 1,
+        "be6b32663bef4cdbb8727b5781bbbfd7": 1,
+        "f9f7f0feac6a466cac48bc51b9f2cec3": 1,
+        "2d6377a1ce614cbda251a53d1f145d15": 2,
+        "1b06b492d9514e9984ae5e21e5e6506e": 1,
+        "60e9745b026f412881f53c6df4727f55": 1,
+        "d6369f349690413384aa729b59aad094": 1
+      },
+      "BOM": [],
+      "updateTime": 1650694947,
+      "createTime": 1650694907,
+      "histories": [],
+      "created_at": "2022-04-23 14:21:47",
+      "updated_at": "2022-04-23 14:22:27"
+    }
+  ],
+  "sort": [],
+  "title": "AD8232_",
+  "foldername": "AD8232_",
+  "schfilename": "AD8232_.json",
+  "schfilemtime": 1650692997652
+}
